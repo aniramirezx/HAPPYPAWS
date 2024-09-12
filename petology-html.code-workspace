@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "petology-html",
+			"path": "../../../../Downloads/petology/petology-html"
+		},
+		{
+			"name": "Happy Paws",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Happy Paws"
+	}
+}
