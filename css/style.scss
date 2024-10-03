@@ -63,7 +63,7 @@ body {
   }
 }
 
-/*header section*/
+
 .hero_area {
   height: 98vh;
   position: relative;
@@ -179,9 +179,7 @@ a:focus {
   background-size: 55px;
 }
 
-/*end header section*/
 
-/* slider section */
 .slider_section {
   background-image: url(../images/hero.jpg);
   padding: 6% 0;
@@ -231,7 +229,7 @@ a:focus {
   }
 }
 
-// carousel controls
+
 .carousel-indicators {
   bottom: -15%;
 }
@@ -245,9 +243,7 @@ a:focus {
   background-color: #010106;
 }
 
-// end carousel control
 
-// about section
 .about_section {
   background-image: url(../images/about-bg.png);
   background-size: cover;
@@ -273,9 +269,7 @@ a:focus {
   }
 }
 
-// end about section
 
-// service section
 .service_section {
   .row {
     .col-md-4 {
@@ -311,9 +305,7 @@ a:focus {
   }
 }
 
-// end service section
 
-// gallery section
 .gallery-section {
   background-color: $primary2;
   .container {
@@ -349,9 +341,7 @@ a:focus {
   }
 }
 
-// end gallery section
 
-// buy section
 .buy_section {
   text-align: center;
   p {
@@ -361,9 +351,7 @@ a:focus {
     @include hero_btn($btnColor, $white, 12px, 65px);
   }
 }
-// end buy section
 
-// client section
 .client_section {
   .pl-100 {
     padding-left: 100px;
@@ -395,9 +383,7 @@ a:focus {
   }
 }
 
-// end client section
 
-// map section
 .map_section {
   position: relative;
   #map {
@@ -432,9 +418,7 @@ a:focus {
   }
 }
 
-// end map section
 
-// info section
 .info_section {
   background-color: $primary2;
 }
@@ -491,9 +475,6 @@ a:focus {
   }
 }
 
-// end info section
-
-/* footer section*/
 
 .footer_section {
   background-color: #fbfdfd;
@@ -510,5 +491,3 @@ a:focus {
 .footer_section a {
   color: #292929;
 }
-
-/* end footer section*/

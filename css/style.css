@@ -36,7 +36,7 @@ body {
   color: #21d7ff;
 }
 
-/*header section*/
+
 .hero_area {
   height: 98vh;
   position: relative;
@@ -160,8 +160,7 @@ a:focus {
   background-size: 55px;
 }
 
-/*end header section*/
-/* slider section */
+
 .slider_section {
   background-image: url(../images/hero.jpg);
   padding: 6% 0;
@@ -568,5 +567,3 @@ a:focus {
   color: #292929;
 }
 
-/* end footer section*/
-/*# sourceMappingURL=style.css.map */
