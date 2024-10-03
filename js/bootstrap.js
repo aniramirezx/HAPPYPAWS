@@ -2322,7 +2322,6 @@
       };
 
       _proto._getScrollbarWidth = function _getScrollbarWidth() {
-        // thx d.walsh
         var scrollDiv = document.createElement('div');
         scrollDiv.className = ClassName$5.SCROLLBAR_MEASURER;
         document.body.appendChild(scrollDiv);

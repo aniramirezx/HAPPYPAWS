@@ -162,7 +162,7 @@ a:focus {
 
 
 .slider_section {
-  background-image: url(../images/hero.jpg);
+  background-image: url(../images/hero.png);
   padding: 6% 0;
   background-size: cover;
   background-repeat: no-repeat;
@@ -181,7 +181,7 @@ a:focus {
 
 .slider_detail-box h1 span {
   display: inline-block;
-  color: #434242;
+  color: #00eeff;
   font-weight: bold;
 }
 
@@ -550,7 +550,7 @@ a:focus {
   background-image: url(../images/envelope-white.png);
 }
 
-/* footer section*/
+
 .footer_section {
   background-color: #fbfdfd;
   padding: 20px;
